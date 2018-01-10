@@ -30,6 +30,6 @@ function destructivelyRemoveElementFronBeginningOfArray(array)
   return array;
 }
 
-}
+
 
 
